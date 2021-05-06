@@ -27,3 +27,7 @@
       path: "source-docs/web docs/docs_examples_plug-ins.md"
       type: "MARKDOWN_CHAPTER_ITEM"
       chapters: []
+- name: "asd"
+  path: null
+  type: MANUAL_CHAPTER
+  chapters: []
