@@ -1,10 +1,10 @@
 chapters:
 - chapters:
   - chapters: []
-    name: puzzles-cloud
-    path: README.md
+    name: Filebeat
+    path: source-docs/filebeat.md
     type: MARKDOWN_CHAPTER
-  name: new node 1
+  name: vh
   path: ''
   type: MANUAL_CHAPTER
 fieldValues:
