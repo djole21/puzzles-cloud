@@ -1,14 +1,6 @@
 chapters:
-- chapters:
-  - chapters:
-    - chapters: []
-      name: puzzles-cloud
-      path: README.md
-      type: MARKDOWN_CHAPTER
-    name: output
-    path: output
-    type: FOLDER_CHAPTER
-  name: marko
+- chapters: []
+  name: hello
   path: ''
   type: MANUAL_CHAPTER
 fieldValues:
