@@ -1,10 +1,10 @@
 chapters:
 - chapters:
   - chapters: []
-    name: Backticks
-    path: source-docs/backticks.md
+    name: puzzles-cloud
+    path: README.md
     type: MARKDOWN_CHAPTER
-  name: qwe
+  name: asd
   path: ''
   type: MANUAL_CHAPTER
 fieldValues:
