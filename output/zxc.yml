@@ -1,5 +1,9 @@
 chapters:
 - chapters: []
+  name: puzzles-cloud
+  path: README.md
+  type: MARKDOWN_CHAPTER
+- chapters: []
   name: UML diagrams
   path: source-docs/diagramTest.md
   type: MARKDOWN_CHAPTER
