@@ -82,6 +82,6 @@ Here is some youtube video
 ==========================
 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/odgfmivaKjA.jpg)](https://www.youtube.com/watch?v=odgfmivaKjA&ab_channel=JohnnyProblem)
 
 
