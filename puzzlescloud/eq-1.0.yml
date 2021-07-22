@@ -1,0 +1,25 @@
+chapters:
+- chapters: []
+  name: Filebeat
+  path: source-docs/filebeat.md
+  type: MARKDOWN_CHAPTER
+fieldValues:
+  doc-author-email: w
+  release-date: ww
+  doc-type: w
+  doc-subtitle: e
+  doc-title: w
+  doc-company: ''
+  change-description: w
+  doc-company-url: w
+  doc-version: w
+  ' reference-doc-title ': w
+  doc-release-date: w
+  doc-author: w
+  File Name: eq.docx
+  doc-author-name: w
+  ' reference-doc-filename ': w
+  doc-id: w
+name: ROOT
+path: null
+type: null
