@@ -1,0 +1,18 @@
+chapters:
+- chapters: []
+  name: UML diagrams
+  path: source-docs/diagramTest.md
+  type: MARKDOWN_CHAPTER
+- chapters: []
+  name: puzzles-cloud
+  path: README.md
+  type: MARKDOWN_CHAPTER
+fieldValues:
+  doc-release-date: ''
+  doc-type: ''
+  doc-title: ''
+  File Name: ewq.docx
+  doc-version: ''
+name: ROOT
+path: null
+type: null
