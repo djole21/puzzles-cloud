@@ -4,11 +4,20 @@ chapters:
   path: README.md
   type: MARKDOWN_CHAPTER
 fieldValues:
-  doc-release-date: ''
+  doc-author-email: ''
   doc-type: ''
+  doc-subtitle: ''
   doc-title: ''
-  File Name: advanced.docx
+  doc-company: ''
+  doc-company-url: ''
   doc-version: ''
+  ' reference-doc-title ': ''
+  doc-release-date: ''
+  doc-change-description: ''
+  File Name: advanced.docx
+  doc-author-name: ''
+  ' reference-doc-filename ': ''
+  doc-id: ''
 name: ROOT
 path: null
 type: null
