@@ -1,7 +1,11 @@
 chapters:
 - chapters: []
-  name: Filebeat
-  path: source-docs/filebeat.md
+  name: markdown ekstenzija
+  path: source-docs/proba.markdown
+  type: MARKDOWN_CHAPTER
+- chapters: []
+  name: UC2 Make Your Website Docs Available Offline
+  path: source-docs/docs_use-cases_uc2-make-website-docs-available-offline.md
   type: MARKDOWN_CHAPTER
 fieldValues:
   doc-author-email: ''
