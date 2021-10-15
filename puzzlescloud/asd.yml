@@ -1,7 +1,7 @@
 chapters:
 - chapters: []
-  name: Filebeat
-  path: source-docs/filebeat.md
+  name: puzzles-cloud
+  path: README.md
   type: MARKDOWN_CHAPTER
 fieldValues:
   doc-author-email: ''
