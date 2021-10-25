@@ -8,4 +8,3 @@
 
 [HTTP](http://abcd.myspecies.info/)
 
-[HTTP](http://abelhasbrasil.myspecies.info/)
