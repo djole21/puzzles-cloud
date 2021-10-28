@@ -4,19 +4,16 @@ chapters:
   path: README.md
   type: MARKDOWN_CHAPTER
 fieldValues:
+  doc-release-date: ''
   doc-author-email: ''
   doc-type: ''
   doc-subtitle: ''
   doc-title: ''
   doc-company: ''
-  doc-company-url: ''
-  doc-version: ''
-  ' reference-doc-title ': ''
-  doc-release-date: ''
-  doc-change-description: ''
   File Name: qwe1.docx
   doc-author-name: ''
-  ' reference-doc-filename ': ''
+  doc-company-url: ''
+  doc-version: ''
   doc-id: ''
 name: ROOT
 path: null
