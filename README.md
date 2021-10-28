@@ -2,4 +2,4 @@
 
 ## mnogo je dobro bilo
 
-### jos jedan updated push failed
+### jos jedan updated push failed opet
