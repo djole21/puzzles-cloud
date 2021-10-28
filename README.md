@@ -2,4 +2,4 @@
 
 ## mnogo je dobro bilo
 
-### jos jedan
+### jos jedan nestao
