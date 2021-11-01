@@ -4,4 +4,4 @@
 
 ### jos jedan samo failed
 
-#### dodajemo prvi trigger za dahsboard
+#### dodajemo prvi trigger multi
