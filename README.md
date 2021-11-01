@@ -4,4 +4,4 @@
 
 ### jos jedan samo failed
 
-#### dodajemo prvi trigger multi
+#### dodajemo prvi trigger multi again
