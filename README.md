@@ -4,4 +4,4 @@
 
 ### jos jedan samo failed
 
-#### dodajemo prvi trigger
+#### dodajemo prvi trigger za update toc-a
