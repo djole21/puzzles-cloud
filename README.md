@@ -4,4 +4,4 @@
 
 ### jos jedan samo failed
 
-#### dodajemo prvi trigger za update toc-a
+#### dodajemo prvi trigger za dahsboard
