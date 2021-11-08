@@ -1,6 +1,6 @@
 chapters:
 - chapters: []
-  name: README
+  name: puzzles-cloud
   path: README.md
   type: MARKDOWN_CHAPTER
 fieldValues:
