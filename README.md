@@ -2,4 +2,3 @@
 
 ## mnogo je dobro bilo
 
-### etc
