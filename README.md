@@ -3,5 +3,3 @@
 ## mnogo je dobro bilo
 
 ### jos jedan samo failed
-
-#### idemo deda
