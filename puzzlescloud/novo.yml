@@ -1,23 +1,14 @@
 chapters:
 - chapters: []
-  name: puzzles-cloud
-  path: README.md
+  name: Filebeat
+  path: source-docs/filebeat.md
   type: MARKDOWN_CHAPTER
 fieldValues:
-  doc-author-email: ''
-  doc-type: ''
-  doc-subtitle: ''
-  doc-title: ''
-  doc-company: ''
-  doc-company-url: ''
-  doc-version: ''
-  ' reference-doc-title ': ''
   doc-release-date: ''
-  doc-change-description: ''
+  doc-type: ''
+  doc-title: ''
   File Name: novo.docx
-  doc-author-name: ''
-  ' reference-doc-filename ': ''
-  doc-id: ''
+  doc-version: ''
 name: ROOT
 path: null
 type: null
