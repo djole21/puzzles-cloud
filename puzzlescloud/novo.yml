@@ -1,7 +1,7 @@
 chapters:
 - chapters: []
   name: Filebeat
-  path: source-docs/filebeat.md
+  path: source-docs/logstash.md
   type: MARKDOWN_CHAPTER
 fieldValues:
   doc-release-date: ''
