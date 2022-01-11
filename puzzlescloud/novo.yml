@@ -1,14 +1,235 @@
 chapters:
-- chapters: []
-  name: puzzles-cloud
-  path: README.md
-  type: MARKDOWN_CHAPTER
+- chapters:
+  - chapters:
+    - chapters:
+      - chapters: []
+        name: New Conference
+        path: source-docs/docs/examples/conf.md
+        type: MARKDOWN_CHAPTER
+      - chapters: []
+        name: Example
+        path: source-docs/docs/examples/example.md
+        type: MARKDOWN_CHAPTER
+      - chapters: []
+        name: The function of design is letting design function
+        path: source-docs/docs/examples/function-of-design.md
+        type: MARKDOWN_CHAPTER
+      - chapters: []
+        name: Introducing The Libris Theme
+        path: source-docs/docs/examples/libris-theme.md
+        type: MARKDOWN_CHAPTER
+      - chapters: []
+        name: Plug-ins
+        path: source-docs/docs/examples/plug-ins.md
+        type: MARKDOWN_CHAPTER
+      - chapters: []
+        name: Tables
+        path: source-docs/docs/examples/plug-ins.md
+        type: MARKDOWN_CHAPTER_ITEM
+      - chapters: []
+        name: Starter Theme
+        path: source-docs/docs/examples/starter-theme.md
+        type: MARKDOWN_CHAPTER
+      - chapters: []
+        name: Typography
+        path: source-docs/docs/examples/typography.md
+        type: MARKDOWN_CHAPTER
+      name: examples
+      path: source-docs/docs/examples
+      type: FOLDER_CHAPTER
+    - chapters:
+      - chapters: []
+        name: How to create DOCX Template for PuzzlesCloud App
+        path: source-docs/docs/getting-started/create-docx-template.md
+        type: MARKDOWN_CHAPTER
+      - chapters: []
+        name: How to import a Git project to PuzzlesCloud App?
+        path: source-docs/docs/getting-started/import-new-git-project.md
+        type: MARKDOWN_CHAPTER
+      name: getting-started
+      path: source-docs/docs/getting-started
+      type: FOLDER_CHAPTER
+    - chapters:
+      - chapters: []
+        name: Privacy Policy
+        path: source-docs/docs/policies/privacy-policy.md
+        type: MARKDOWN_CHAPTER
+      - chapters: []
+        name: Terms and Conditions
+        path: source-docs/docs/policies/terms-and-conditions.md
+        type: MARKDOWN_CHAPTER
+      name: policies
+      path: source-docs/docs/policies
+      type: FOLDER_CHAPTER
+    - chapters:
+      - chapters: []
+        name: UC1 Work in GIT and Produce DOCX & PDF
+        path: source-docs/docs/use-cases/uc1-work-in-git-produce-docx-pdf.md
+        type: MARKDOWN_CHAPTER
+      - chapters: []
+        name: UC2 Make Your Website Docs Available Offline
+        path: source-docs/docs/use-cases/uc2-make-website-docs-available-offline.md
+        type: MARKDOWN_CHAPTER
+      - chapters: []
+        name: UC3 Work in our App and Publish Docs in GIT
+        path: source-docs/docs/use-cases/uc3-work-in-our-webapp-and-publish-docs-in-git.md
+        type: MARKDOWN_CHAPTER
+      name: use-cases
+      path: source-docs/docs/use-cases
+      type: FOLDER_CHAPTER
+    name: docs
+    path: source-docs/docs
+    type: FOLDER_CHAPTER
+  - chapters: []
+    name: Backticks MD file
+    path: source-docs/backticks.md
+    type: MARKDOWN_CHAPTER
+  - chapters:
+    - chapters: []
+      name: Markdown1
+      path: source-docs/qa/markdown1.md
+      type: MARKDOWN_CHAPTER
+    - chapters: []
+      name: Markdown2
+      path: source-docs/qa/markdown2.md
+      type: MARKDOWN_CHAPTER
+    - chapters: []
+      name: Markdown3
+      path: source-docs/qa/markdown3.md
+      type: MARKDOWN_CHAPTER
+    - chapters: []
+      name: Markdown4
+      path: source-docs/qa/markdown4.md
+      type: MARKDOWN_CHAPTER
+    - chapters: []
+      name: Markdown5
+      path: source-docs/qa/markdown5.md
+      type: MARKDOWN_CHAPTER
+    - chapters: []
+      name: h1 Heading 8-)
+      path: source-docs/qa/markdown6.md
+      type: MARKDOWN_CHAPTER
+    name: qa
+    path: source-docs/qa
+    type: FOLDER_CHAPTER
+  - chapters:
+    - chapters: []
+      name: Where To Get Support
+      path: source-docs/web docs/docs_examples_community_index.md
+      type: MARKDOWN_CHAPTER
+    - chapters: []
+      name: Plug-ins
+      path: source-docs/web docs/docs_examples_plug-ins.md
+      type: MARKDOWN_CHAPTER
+    - chapters: []
+      name: Tables
+      path: source-docs/web docs/docs_examples_plug-ins.md
+      type: MARKDOWN_CHAPTER_ITEM
+    name: web docs
+    path: source-docs/web docs
+    type: FOLDER_CHAPTER
+  - chapters: []
+    name: This is heading
+    path: source-docs/code.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: UML diagrams
+    path: source-docs/diagramTest.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: Integrations with other Apps
+    path: source-docs/docs_integrations_index.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: UC1 Work in GIT and Produce DOCX & PDF
+    path: source-docs/docs_use-cases_uc1-work-in-git-produce-docx-pdf.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: UC2 Make Your Website Docs Available Offline
+    path: source-docs/docs_use-cases_uc2-make-website-docs-available-offline.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: Filebeat
+    path: source-docs/filebeat.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: Plug-ins
+    path: source-docs/headingsSmallerBiggerTest.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: Tech Tailors
+    path: source-docs/http-plus-https.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: heading drugog nivoa
+    path: source-docs/headingsSmallerBiggerTest.md
+    type: MARKDOWN_CHAPTER_ITEM
+  - chapters: []
+    name: HyperlinkImage
+    path: source-docs/hyperlinkImage.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: Images (captions)
+    path: source-docs/images (captions).md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: Logstash
+    path: source-docs/logstash.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: Numbering
+    path: source-docs/numbering.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: head
+    path: source-docs/numberingTest.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: markdown ekstenzija
+    path: source-docs/proba.markdown
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: RefImages
+    path: source-docs/refImages.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: SameHeadingsTest (1)
+    path: source-docs/sameHeadingsTest (1).md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: Style Guide
+    path: source-docs/style-guide.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: Table (captions)
+    path: source-docs/table (captions).md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: Table
+    path: source-docs/table.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: Tables
+    path: source-docs/Tables .md
+    type: MARKDOWN_CHAPTER
+  name: source-docs
+  path: source-docs
+  type: FOLDER_CHAPTER
 fieldValues:
-  doc-release-date: ''
+  doc-author-email: ''
   doc-type: ''
+  doc-subtitle: ''
   doc-title: ''
-  File Name: novo.docx
+  doc-company: ''
+  doc-company-url: ''
   doc-version: ''
+  ' reference-doc-title ': ''
+  doc-release-date: ''
+  doc-change-description: ''
+  File Name: novo.docx
+  doc-author-name: ''
+  ' reference-doc-filename ': ''
+  doc-id: ''
 name: ROOT
 path: null
 type: null
