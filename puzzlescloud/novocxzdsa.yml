@@ -1,0 +1,24 @@
+chapters:
+- chapters: []
+  folderName: master
+  name: Welcome to the puzzles-cloud wiki!
+  path: Home.md
+  sourceURL: https://github.com/djole21/puzzles-cloud.wiki.git
+  type: MARKDOWN_CHAPTER
+- chapters: []
+  folderName: main
+  name: puzzles-cloud
+  path: README.md
+  sourceURL: https://github.com/djole21/puzzles-cloud
+  type: MARKDOWN_CHAPTER
+fieldValues:
+  doc-release-date: ''
+  doc-type: ''
+  doc-title: ''
+  File Name: novocxzdsa.docx
+  doc-version: ''
+folderName: null
+name: ROOT
+path: null
+sourceURL: null
+type: null
