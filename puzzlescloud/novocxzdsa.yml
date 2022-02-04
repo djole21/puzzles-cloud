@@ -1,5 +1,11 @@
 chapters:
 - chapters: []
+  folderName: main
+  name: puzzles-cloud-gitlab
+  path: README.md
+  sourceURL: https://gitlab.com/djmitrovic/puzzles-cloud-gitlab.git
+  type: MARKDOWN_CHAPTER
+- chapters: []
   folderName: master
   name: Welcome to the puzzles-cloud wiki!
   path: Home.md
