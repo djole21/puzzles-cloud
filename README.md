@@ -1,7 +1,3 @@
 # puzzles-cloud
 
-## asdqwe
-
-### qwe
-
-#### novi heading
+## testing repo for puzzles cloud
