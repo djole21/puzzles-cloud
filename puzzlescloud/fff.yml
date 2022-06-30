@@ -1,0 +1,30 @@
+chapters:
+- chapters: []
+  folderName: main
+  name: original
+  path: novi.md
+  sourceURL: https://github.com/djole21/puzzles-cloud
+  type: MARKDOWN_CHAPTER
+- chapters: []
+  folderName: main
+  name: puzzles-cloud
+  path: README.md
+  sourceURL: https://github.com/djole21/puzzles-cloud
+  type: MARKDOWN_CHAPTER
+fieldValues:
+  doc-release-date: ''
+  doc-author-email: ''
+  doc-type: ''
+  doc-subtitle: ''
+  doc-title: ''
+  doc-company: ''
+  File Name: fff.docx
+  doc-author-name: ''
+  doc-company-url: ''
+  doc-version: ''
+  doc-id: ''
+folderName: null
+name: ROOT
+path: null
+sourceURL: null
+type: null
