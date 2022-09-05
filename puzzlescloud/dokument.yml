@@ -1,0 +1,57 @@
+chapters:
+- chapters:
+  - chapters: []
+    folderName: main
+    name: This is heading
+    path: source-docs/code123.md
+    sourceURL: https://github.com/djole21/puzzles-cloud
+    type: MARKDOWN_CHAPTER
+  folderName: ''
+  name: heading 1
+  path: ''
+  sourceURL: ''
+  type: MANUAL_CHAPTER
+- chapters: []
+  folderName: main
+  name: Terms and Conditions
+  path: source-docs/docs/policies/terms-and-conditions.md
+  sourceURL: https://github.com/djole21/puzzles-cloud
+  type: MARKDOWN_CHAPTER
+- chapters: []
+  folderName: main
+  name: Privacy Policy
+  path: source-docs/docs/policies/privacy-policy.md
+  sourceURL: https://github.com/djole21/puzzles-cloud
+  type: MARKDOWN_CHAPTER
+- chapters: []
+  folderName: main
+  name: How to import a Git project to PuzzlesCloud App?
+  path: source-docs/docs/getting-started/import-new-git-project.md
+  sourceURL: https://github.com/djole21/puzzles-cloud
+  type: MARKDOWN_CHAPTER
+- chapters: []
+  folderName: main
+  name: How to create DOCX Template for PuzzlesCloud App
+  path: source-docs/docs/getting-started/create-docx-template.md
+  sourceURL: https://github.com/djole21/puzzles-cloud
+  type: MARKDOWN_CHAPTER
+fieldValues:
+  doc-subtitle: Podnaslov
+  doc-type: Tip dokumenta
+  doc-author-email: ''
+  doc-title: Naslov
+  doc-company: ''
+  doc-company-url: ''
+  doc-version: ''
+  ' reference-doc-title ': ''
+  doc-release-date: ''
+  File Name: dokument.docx
+  doc-change-description: ''
+  doc-author-name: ''
+  doc-id: ''
+  ' reference-doc-filename ': ''
+folderName: null
+name: ROOT
+path: null
+sourceURL: null
+type: null
