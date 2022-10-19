@@ -1,2 +1,2 @@
 # original
-### izmena remote
+### izmena git
