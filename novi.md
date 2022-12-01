@@ -2,4 +2,4 @@
 
 ### izmena git br 2
 
-izmena iz PC-a opet
+izmena
